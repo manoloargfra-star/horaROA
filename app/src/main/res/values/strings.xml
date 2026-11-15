@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hora ROA</string>
+    <string name="titulo_roa">HORA OFICIAL · REAL OBSERVATORIO DE LA ARMADA</string>
+    <string name="titulo_movil">HORA DEL TELÉFONO</string>
+    <string name="sin_hora">--:--:--</string>
+    <string name="canarias">Canarias: %1$s</string>
+    <string name="boton">Sincronizar ahora</string>
+    <string name="sincronizando">Consultando hora.roa.es…</string>
+    <string name="error_sync">No se pudo sincronizar: %1$s</string>
+    <string name="estado">hora.roa.es · retardo %1$d ms · estrato %2$d · hace %3$d s</string>
+    <string name="dif_en_hora">El teléfono está en hora (±%1$s)</string>
+    <string name="dif_adelanta">El teléfono adelanta %1$s</string>
+    <string name="dif_atrasa">El teléfono atrasa %1$s</string>
+</resources>
